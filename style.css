@@ -1,0 +1,68 @@
+body 
+	{
+		background-color:mediumslateblue;
+	}
+h1 
+	{
+		font-family: 'Yeseva One', cursive;
+		font-size: 65px;
+		color: darkcyan;
+		background-color: cornsilk;
+		border: 5px solid black;
+	}
+h2 
+	{
+		font-family: 'Cinzel', serif;
+		font-size: 35px;
+		color: maroon;
+		background-color: rosybrown;
+		border: 3px dashed darkslateblue;
+	}
+h3 
+	{
+		font-family:'Do Hyeon', sans-serif; 
+		color: coral;
+		font-size: 25px;
+		background-color: lightgray;
+	}
+p 
+	{
+		font-family: 'Indie Flower', cursive;
+		color: darkmagenta;
+		font-size: 25px;
+		background-color: darkkhaki;
+	}
+ul 
+	{
+		font-family: 'Merienda One', cursive;
+		color: honeydew;
+		font-size: 20px;
+	}
+a:link, a:visited 
+	{
+		color: lightseagreen;
+		background-color: lightpink;
+		padding: 10px;
+		border-radius: 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+	}
+a:hover, a:active 
+	{
+		background-color: lavender;
+		text-decoration: none;
+	}
+table 
+	{
+		border-style: solid;
+		background-color: indianred;
+		width:100px;
+		color: linen;
+		font-family: 'Handlee', cursive;
+		font-size: 20px;
+	}
+img 
+	{
+		border: 5px solid black;
+	}
